@@ -1,0 +1,23 @@
+name: rms-indentation-validation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - scipy
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - openpyxl
+  - opencv
+  - scikit-image
+  - pillow
+  - python-docx
+  - pdfplumber
+  - pypdf
+  - nbformat
+  - nbclient
+  - ipykernel
+  - pytest
+
